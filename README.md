@@ -12,7 +12,5 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/7SlILk2WMTI/maxresdefault.jpg)](https://www.youtube.com/watch?v=nUIgQR5CIxQ)
-HelloTest
-#Test Conflict
-![](http://f.ptcdn.info/620/007/000/1374726039-00212-o.jpg)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/7SlILk2WMTI/maxresdefault.jpg)](https://www.youtube.com/watch?v=C8jyd_pm-7k)
++HelloTest
