@@ -22,3 +22,5 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+Inline-style: 
+![alt text](http://www.smashbros.com/images/character/mario/main.png "Logo Title Text 1")
