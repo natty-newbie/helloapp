@@ -6,6 +6,10 @@
 # Image3
 ![](https://i.ytimg.com/vi/7SlILk2WMTI/maxresdefault.jpg)
 
+| dd | ddd |
+| xx | ddd |
+
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -24,3 +28,5 @@ alert(s);
 ```
 Inline-style: 
 ![alt text](http://www.smashbros.com/images/character/mario/main.png "Logo Title Text 1")
+
+
